@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:template/others/api_manager.dart';
-/*
+
 class FixturesScreen extends StatefulWidget {
   const FixturesScreen({super.key});
 
@@ -47,4 +47,3 @@ class _FixturesScreenState extends State<FixturesScreen> {
     );
   }
 }
-*/

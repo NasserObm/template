@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-/*
+
 class ApiManager {
   static const _apiUrl = 'https://v3.football.api-sports.io';
   static const _keyApi = '4a99b68a164d155ca2cfae5801dc5415';
@@ -79,4 +79,3 @@ class ApiManager {
     }
   }
 }
-*/
